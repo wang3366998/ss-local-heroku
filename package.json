@@ -9,6 +9,6 @@
     "node": "4.x"
   },
   "scripts": {
-    "start": "node local.js -c config.json"
+    "start": "node server.js -c config.json"
   }
 }
